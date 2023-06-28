@@ -1,10 +1,8 @@
-<img src="[/images/output/video1.gif](https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif)" width="250PX" height="250PX"/>
-
 ![](https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif)
 
 <h1 align="left">Hi there👋, I'm Saurabh</h1>
 <h3 align="left">I'm Frontend Developer working on ReactJS and Lightning Framework.</h3>
-
+<h5>Currently working as Front-End Developer On React and Lightning component.Currently understanding large codebases and learning to contribute to Open Source.</h5>
 <p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
