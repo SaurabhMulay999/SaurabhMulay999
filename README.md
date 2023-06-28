@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
+<h1 align="left">Hi there👋, I'm Saurabh</h1>
 <h3 align="center">I'm Frontend Developer working on ReactJS and Lightning Framework.</h3>
 
 <p>
