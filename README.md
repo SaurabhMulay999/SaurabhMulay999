@@ -3,7 +3,7 @@
 -🔭 I’m currently working on React and Frontend Frameworks and also currently working on Salesforce Dot com...
 -🌱 I’m currently learning NodeJS and Backend development...
 ```
-![](https://visitor-badge.laobi.icu/badge?page_id=SaurabhMulay999.SaurabhMulay999)
+![](https://visitor-badge.laobi.icu/badge?page_id=SaurabhMulay999)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhMulay999&show_icons=true&theme=tokyonight)
 
 
