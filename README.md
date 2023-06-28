@@ -3,7 +3,7 @@
 <h3 align="center">I'm Frontend Developer working on ReactJS and Lightning Framework.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhmulay999" alt="saurabhmulay999" /></a> </p>
+
 
 - 🔭 I’m currently working on **ReactJS.**
 - 👯 I’m looking to collaborate on **MERN Projects.**
@@ -18,4 +18,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhmulay999&show_icons=true&locale=en&layout=compact" alt="saurabhmulay999" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhmulay999&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhmulay999" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhmulay999" alt="saurabhmulay999" /></a> </p>
 
