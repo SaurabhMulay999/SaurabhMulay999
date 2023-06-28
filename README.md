@@ -1,8 +1,8 @@
 <h1>#👋 Hii there! I'm Saurabh</h1> 
 <div>
-<h4>-🔭 I’m currently working on React and Frontend Frameworks and also currently working on Lightning Web Components...</h4>
-<h4>-🌱 I’m currently learning NodeJS and Backend development and Contributing to Open Source Projects</h4>
-<h4>-👯 I’m looking to collaborate on MERN Projects.</h4>
+<h4>-🔭 I’m currently working on React and Frontend Frameworks and also currently working on Lightning Web Components...
+-🌱 I’m currently learning NodeJS and Backend development and Contributing to Open Source Projects
+-👯 I’m looking to collaborate on MERN Projects.</h4>
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhMulay999&show_icons=true&theme=tokyonight)
