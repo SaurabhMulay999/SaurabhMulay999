@@ -1,4 +1,4 @@
-![](["https://kirokazepixel.tumblr.com/image/678991241865789440"](https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif))
+![](https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif")
 <h1 align="left">Hi there👋, I'm Saurabh</h1>
 <h3 align="left">I'm Frontend Developer working on ReactJS and Lightning Framework.</h3>
 
