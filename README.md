@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi there👋, I'm Saurabh</h1>
-<h3 align="center">I'm Frontend Developer working on ReactJS and Lightning Framework.</h3>
+<h3 align="left">I'm Frontend Developer working on ReactJS and Lightning Framework.</h3>
 
 <p>
 <h3 align="left">Connect with me:</h3>
