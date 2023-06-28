@@ -13,6 +13,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhmulay999&show_icons=true&locale=en&layout=compact" alt="saurabhmulay999" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhmulay999&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhmulay999" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhmulay999" alt="saurabhmulay999" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhmulay999" height="100px" width="80px" alt="saurabhmulay999" /></a> </p>
 
 🌟 Let's connect! I'm always excited to collaborate on frontend projects, discuss new ideas, or contribute to exciting open source initiatives. You can find me here on GitHub, and feel free to reach out via Linkdn. Let's create amazing experiences together!"
