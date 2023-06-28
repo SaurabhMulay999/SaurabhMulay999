@@ -1,4 +1,6 @@
-![](https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif)
+<div height="500px" width="500px">
+  ![](https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif)
+</div>
 <h1 align="left">Hi there👋, I'm Saurabh</h1>
 <h3 align="left">I'm Frontend Developer working on ReactJS and Lightning Framework.</h3>
 
