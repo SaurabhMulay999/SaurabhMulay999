@@ -1,4 +1,4 @@
-<div height="500px" width="500px">
+<div>
   ![](https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif)
 </div>
 <h1 align="left">Hi there👋, I'm Saurabh</h1>
