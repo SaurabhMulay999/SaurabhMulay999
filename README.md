@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/EdsonLucasbd/EdsonLucasbd/main/images/pixel-jeff-matrix-s.gif)
-
 <h1 align="left">Hiii there👋, I'm Saurabh</h1>
 <h3 align="left">I'm Frontend Developer working on ReactJS and Lightning Framework.</h3>
 <h5>Currently working as Front-End Developer On React and Lightning component.Currently understanding large code_base and learning to contribute to Open Source.also Learning NodeJS and Backend Development.</h5>
