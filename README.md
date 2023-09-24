@@ -1,4 +1,4 @@
-<h3 align="left">I'm a Frontend Developer working on ReactJS and Lightning Framework.</h3>
+**I'm a Frontend Developer working on ReactJS and Lightning Framework.**
 
 Currently working as a Front-End Developer On React and Lightning components. Currently understanding large code_base and learning to contribute to Open Source. Also Learning NodeJS and Backend Development.
 
